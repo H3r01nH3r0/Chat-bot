@@ -1,10 +1,6 @@
 {
-    "owners": [
-        1149300506,
-        1763665005,
-        137699342
-    ],
-    "bot_token": "1900305542:AAH48w0q_hrdws61mqOTQfO6UzLtCGeRbKo",
+    "owners": [],
+    "bot_token": "",
     "db_url": "mongodb://localhost:27017",
     "db_name": "squalor_bot",
     "show": null,
